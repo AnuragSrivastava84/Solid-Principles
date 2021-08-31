@@ -1,5 +1,7 @@
 # Solid-Principles
 
+The purpose of this document is to give the overview about the SOLID principles.
+
 In the object oriented programming the SOLID is a mnemonic acronym for the five software engineering principles to make the software designs more understandable, flexible and maintainable.
 
 The term SOLID means
